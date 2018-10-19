@@ -27,7 +27,7 @@ and open the template in the editor.
                     <div class="row">
                         <div class="col-8">
                             <h1 class="centerH centerHH">
-                                ROBOTSHITÉ
+                                JVA
                             </h1>
                         </div>
                         <div class="col-4">
@@ -114,7 +114,7 @@ and open the template in the editor.
                         </div>
                         <div class="col-6">
                             <h1 class="centerH center">
-                                Vos questions
+                                Vie étudiante
                             </h1>
                         </div>
 
