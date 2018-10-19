@@ -22,11 +22,20 @@ and open the template in the editor.
     <body>
         <div class="container-fluid">
             <div class="row">
+                <div class="col-md-12">
+                    <ul class="nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="index.php">Accueil</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-12">
                     <div class="row">
                         <div class="col-8">
                             <h1 class="centerH centerHH">
-                                ROBOTSHITÉ
+                                JVA
                             </h1>
                         </div>
                         <div class="col-4">

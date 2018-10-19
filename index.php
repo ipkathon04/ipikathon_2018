@@ -38,7 +38,7 @@ and open the template in the editor.
             </div>
             <div class="row" style="margin-top: 100px">
                 <div class="col-12">
-                    <div class="row" onclick="location.href = 'visite.php'" style="cursor: pointer">
+                    <div class="row" onclick="location.href = 'accueil.html'" style="cursor: pointer">
                         <div class="col-6">
                             <h1 class="centerH center">
                                 Visite du campus
@@ -50,7 +50,7 @@ and open the template in the editor.
                     </div>
                     <div class="row" onclick="location.href = 'visite.php'">
                         <div class="col-6 imgI">
-                            <img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" class="rounded center responsive">
+                            <img alt="Bootstrap Image Preview" src="image/Formation.jpg" class="rounded center responsive">
                         </div>
                         <div class="col-6">
                             <h1 class="centerH center">
@@ -65,12 +65,12 @@ and open the template in the editor.
                             </h1>
                         </div>
                         <div class="col-6 imgI">
-                            <img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" class="rounded center responsive">
+                            <img alt="Bootstrap Image Preview" src="image/metier.jpg" class="rounded center responsive">
                         </div>
                     </div>
                     <div class="row" onclick="location.href = 'visite.php'">
                         <div class="col-6 imgI">
-                            <img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" class="rounded center responsive">
+                            <img alt="Bootstrap Image Preview" src="image/dossier.jpg" class="rounded center responsive">
                         </div>
                         <div class="col-6">
                             <h4 class="centerH center">
@@ -78,19 +78,19 @@ and open the template in the editor.
                             </h4>
                         </div>
                     </div>
-                    <div class="row" onclick="location.href = 'visite.php'">
+                    <div class="row" onclick="location.href = 'rdv.html'">
                         <div class="col-6">
                             <h4 class="centerH center">
                                 <b>Prendre un rendez-vous</b>
                             </h4>
                         </div>
                         <div class="col-6 imgI">
-                            <img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" class="rounded center responsive">
+                            <img alt="Bootstrap Image Preview" src="image/rdv.png" class="rounded center responsive">
                         </div>
                     </div>
                     <div class="row" onclick="location.href = 'avis.php'">
                         <div class="col-6 imgI">
-                            <img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" class="rounded center responsive">
+                            <img alt="Bootstrap Image Preview" src="image/avis.jpg" class="rounded center responsive">
                         </div>
                         <div class="col-6">
                             <h1 class="centerH center">
@@ -105,12 +105,12 @@ and open the template in the editor.
                             </h1>
                         </div>
                         <div class="col-6 imgI">
-                            <img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" class="rounded center responsive">
+                            <img alt="Bootstrap Image Preview" src="image/question.png" class="rounded center responsive">
                         </div>
                     </div>
                     <div class="row" onclick="location.href = 'visite.php'">
                         <div class="col-6 imgI">
-                            <img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" class="rounded center responsive">
+                            <img alt="Bootstrap Image Preview" src="image/embauche.jpg" class="rounded center responsive">
                         </div>
                         <div class="col-6">
                             <h1 class="centerH center">
@@ -121,7 +121,7 @@ and open the template in the editor.
                     </div>
                     <div class="row footer" style="margin-top: 20px">
                         <div class="col-12 imgI">
-                            <img alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" class="rounded center responsive">
+                            <img alt="Bootstrap Image Preview" src="image/ublu.jpg" class="rounded center responsive">
                         </div>
                     </div>
                 </div>

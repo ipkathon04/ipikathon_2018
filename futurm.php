@@ -22,11 +22,20 @@ and open the template in the editor.
     <body>
         <div class="container-fluid">
             <div class="row">
+                <div class="col-md-12">
+                    <ul class="nav">
+                        <li class="nav-item">
+                            <a class="nav-link active" href="index.php">Accueil</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
                 <div class="col-12">
                     <div class="row">
                         <div class="col-8">
                             <h1 class="centerH centerHH">
-                                ROBOTSHITÉ
+                                JVA
                             </h1>
                         </div>
                         <div class="col-4">
@@ -98,10 +107,10 @@ and open the template in the editor.
                             FORMATION PROPOSÉE : 
                         </h4>
                         <h3 class='centerFM' id="titleform" style="text-align: center">
-                            
+
                         </h3>
                         <p id="contenuform" class="centerFM" style="text-align: center">
-                            
+
                         </p>
                         <p>
                             <a class="btn btn-primary btn-large centerFM" id="" href="http://www.ipi-ecoles.com/digitalents-expert-developpement-logiciel/">EN SAVOIR PLUS</a>
